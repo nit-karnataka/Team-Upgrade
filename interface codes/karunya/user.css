@@ -1,0 +1,13 @@
+#frame{
+	max-width: 100% !important;
+	width: 100% !important;
+	height: 100% !important;
+}
+#frame #sidepanel #profile .wrap img {
+    width: 53px !important;
+    height: 53px !important;
+}
+#frame #sidepanel #contacts ul li.contact .wrap img{
+	width: 40px !important;
+    height: 40px !important;
+}

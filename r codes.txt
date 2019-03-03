@@ -1,0 +1,4 @@
+ library(rdrop2)
+> drop_auth()
+> drop_dir()
+> drop_download("8.txt")
